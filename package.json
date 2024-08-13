@@ -1,0 +1,18 @@
+{
+  "name": "node_cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rishabh Nirmalkar",
+  "license": "Apache-2.0",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "prompts": "^2.4.2"
+  }
+}
